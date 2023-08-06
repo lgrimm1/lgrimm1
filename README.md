@@ -3,10 +3,12 @@
   Stack:
   <ul>
     <li>Java</li>
+    <li>Spring MVC</li>
     <li>Spring Boot</li>
     <li>Spring Data JPA</li>
     <li>Spring Validation</li>
     <li>Spring ThymeLeaf</li>
+    <li>Spring MockMVC</li>
     <li>Mockito</li>
     <li>JUnit</li>
     <li>HTML, JavaScript, CSS</li>
