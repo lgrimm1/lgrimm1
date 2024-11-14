@@ -6,6 +6,8 @@
     <li>Spring MVC</li>
     <li>Spring Boot</li>
     <li>Spring Data JPA</li>
+    <li>PostgreSQL</li>
+    <li>H2</li>
     <li>Spring Validation</li>
     <li>Spring ThymeLeaf</li>
     <li>Spring MockMVC</li>
@@ -24,15 +26,6 @@
     <li>semi-automatic control of big-format imagery processes</li>
   </ul>
 </p>
-<p>
-  Professional background:
-  <ul>
-    <li>high engineer knowledge on GIS & CAD</li>
-    <li>customer service & data service experience</li>
-    <li>private & governmental sectors</li>
-  </ul>
-</p>
-<p>Work languages are English & Hungarian.</p>
 
 <!---
 - 👋 Hi, I’m @lgrimm1
